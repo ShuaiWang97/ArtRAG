@@ -89,6 +89,7 @@ The code base is greatly built on [lightrag project](https://github.com/HKUDS/Li
 
 
 If you find this project useful, please cite:
+```python
 @misc{wang2025artragretrievalaugmentedgenerationstructured,
       title={ArtRAG: Retrieval-Augmented Generation with Structured Context for Visual Art Understanding}, 
       author={Shuai Wang and Ivona Najdenkoska and Hongyi Zhu and Stevan Rudinac and Monika Kackovic and Nachoem Wijnberg and Marcel Worring},
@@ -98,3 +99,4 @@ If you find this project useful, please cite:
       primaryClass={cs.AI},
       url={https://arxiv.org/abs/2505.06020}, 
 }
+```
